@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+
+.center{
+    text-align:center;
+    font-size: 2em;
+}
+
+.center button{
+padding: 10px 30px;
+font-size: 15px;
+background-color: hotpink;
+color: #fff;
+
+}
+
+button.sec{
+    background-color: mediumpurple;
+    color: black;
+    margin-top:20px;
+}
